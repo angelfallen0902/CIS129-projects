@@ -1,4 +1,4 @@
-# Autor: Celia Valenzueka
+# Author: Celia Valenzueka
 # My first python lab in my CIS 129 course
 # Prints a short simple story
 print('There once was a duck who couldn't quack.')
