@@ -1,3 +1,6 @@
+#Author Celia Valenzuela
+#Project Coffee Shop Cafe
+#Date: 03/21/24
 print('Hello! Welcome to my Cafe!')
 
 print('How many muffins and coffees can I get for you, today?')
